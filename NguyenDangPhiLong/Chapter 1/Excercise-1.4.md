@@ -13,17 +13,17 @@ import java.util.Vector;
 
 class Vector { 
 	public static Vector union(Vector a, Vector b) { 
-		Vector v = new Vector(); 
-		v.addAll(a); 
-		v.addAll(b); 
-		return v; 
+		Vector c = new Vector(); 
+		c.addAll(a); 
+		c.addAll(b); 
+		return c; 
 	} 
 	public static void main(String[] arg) { 
 		Vector a = new Vector(); 
 		a.add(9); 
 		Vector b = new Vector(); 
 		b.add(5); 
-		Vector v = union(a, b); 
+		Vector c = union(a, b); 
 	} 
 } 
 ```
