@@ -12,11 +12,11 @@ public static int sum(int[] x)
       return s;
    }
 ```
-###(a) If possible, find test inputs that do not reach the mutant.
+### (a) If possible, find test inputs that do not reach the mutant.
 Can not find.
 
-###(b) If possible, find test inputs that satisfy reachability but not infection for the mutant.
+### (b) If possible, find test inputs that satisfy reachability but not infection for the mutant.
 Can not find
-(c) If possible, find test inputs that satisfy infection, but not propagation for the mutant.
+### (c) If possible, find test inputs that satisfy infection, but not propagation for the mutant.
 x = [0, 0 ,0 ,0]
-(d) If possible, find test inputs that strongly kill the mutants.
+### (d) If possible, find test inputs that strongly kill the mutants.
