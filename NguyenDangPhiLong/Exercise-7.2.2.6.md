@@ -1,6 +1,6 @@
 # Exercise 7.2.2.6
 ## The graph in Figure 7.2.
-![title](Untitiled-2.png)
+![title](Untitled-2.png)
 ## a) List the test requirements for Node Coverage, Edge Coverage, and Prime Path Coverage on the graph.
 * TR Node coverage: 
 ```
